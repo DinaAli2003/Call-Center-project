@@ -86,6 +86,8 @@ Negative feedback responses are higher compared to positive ones.
 
 🔹 Tools Used
 
-Microsoft Power BI – for dashboard creation and visualization.
-power query editor for preprocessing
-Excel / CSV dataset – for data input.
+-Microsoft Power BI – for dashboard creation and visualization.
+
+-power query editor for preprocessing
+
+-Excel / CSV dataset – for data input.
